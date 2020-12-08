@@ -1,0 +1,9 @@
+[submodule "bloodbankapp-ui"]
+	path = bloodbankapp-ui
+	url = https://github.com/sf-fresher-batch-2020/bloodbankapp-ui.git
+[submodule "bloodbankapp-angular-ui"]
+	path = bloodbankapp-angular-ui
+	url = https://github.com/sf-fresher-batch-2020/bloodbankapp-angular-ui.git
+[submodule "bloodbankapp-api"]
+	path = bloodbankapp-api
+	url = https://github.com/sf-fresher-batch-2020/bloodbankapp-api.git
