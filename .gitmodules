@@ -7,3 +7,6 @@
 [submodule "bloodbankapp-api"]
 	path = bloodbankapp-api
 	url = https://github.com/sf-fresher-batch-2020/bloodbankapp-api.git
+[submodule "bloodbank-mock-api"]
+	path = bloodbank-mock-api
+	url = https://github.com/sf-fresher-batch-2020/bloodbank-mock-api.git
